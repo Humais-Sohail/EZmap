@@ -17,8 +17,10 @@
 <p>Give the targets and select the scan type you want to use... :)</p>
 <h1>CAUTION!</h1>
 <p>You will be responsible for any misuse of this program. Support me and stay tuned for more future projects<br></p>
-![gif](https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif)
+
 
 <p align="center"><b>Peace :)</b></p>
+<hr>
+![meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdnazhwOTd5MXl6NGMxYmJydnZhOXRlbDB1NG8yMmk1MTR5c3NheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
 
 
