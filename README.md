@@ -21,6 +21,6 @@
 
 <p align="center"><b>Peace :)</b></p>
 <hr>
-![meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdnazhwOTd5MXl6NGMxYmJydnZhOXRlbDB1NG8yMmk1MTR5c3NheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+<img src="https://i.imgflip.com/2z9ixy.jpg">
 
 
