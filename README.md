@@ -18,9 +18,10 @@
 <h1>CAUTION!</h1>
 <p>You will be responsible for any misuse of this program. Support me and stay tuned for more future projects<br></p>
 
-
-<p align="center"><b>Peace :)</b></p>
 <hr>
 <img src="https://i.imgflip.com/2z9ixy.jpg">
+<p align="center"><b>Peace :)</b></p>
+
+
 
 
